@@ -1,7 +1,16 @@
 {
   "databases": [
-    "V1.XXX",
-    "V2.XXXX",
-    "V3.XXX",
+    {
+      "id": "v1xxx",
+      "name": "V1.XXX"
+    },
+    {
+      "id": "v2xxx",
+      "name": "V2.XXX"
+    },
+    {
+      "id": "v3xxx",
+      "name": "V3.XXX"
+    },
   ]
 }
